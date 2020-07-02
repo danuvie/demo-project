@@ -1,0 +1,21 @@
+Camada de transporte
+
+    TCP, Transmission Control Protocol O TCP (acrônimo para o inglês Transmission Control Protocol), também conhecido como TCP/IP, é um dos protocolos sobre os quais assenta o núcleo da Internet. A versatilidade e robustez deste protocolo tornou-o adequado a redes globais, já que este verifica se os dados são enviados de forma correta, na sequência apropriada e sem erros, pela rede. O TCP é um protocolo do nível da camada de transporte (camada 4) do Modelo OSI e é sobre o qual assentam a maioria das aplicações cibernéticas, que estão na camada de aplicação (camada 7) como o SSH, FTP, HTTP — portanto, a World Wide Web.
+
+TCP e UDP
+Ver artigo principal: Lista de portas dos protocolos TCP e UDP
+
+    Na tabela abaixo listam-se os serviços e protocolos associados às portas TCP e UDP.
+
+Serviço 	TCP 	UDP 	Observações
+FTP 21 21 Transferência de arquivos
+SSH 22 22 Protocolo de login remoto encriptado
+Telnet 23 23 Protocolo de login remoto
+SMTP 25 25 Para envio de email
+DNS1 53 53 Resolução de nomes para IP
+HTTP 80 80 Para web browser
+POP3 110 110 Para recepção de email
+IMAP 143 143 Para recepção/envio de email
+TLS/SSL 443 443 Protocolo de camada de sockets segura
+IRC 6667 6667 Para conversação/chat
+Pichat 9009 9009 Protocolo de conversação/chat 
